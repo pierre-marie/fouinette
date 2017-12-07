@@ -1,0 +1,6 @@
+framework module Pods_fouinetteTests {
+  umbrella header "Pods-fouinetteTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
