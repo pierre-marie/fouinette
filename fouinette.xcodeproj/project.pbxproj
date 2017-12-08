@@ -504,6 +504,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/fouinette/Frameworks",
+					"$(PROJECT_DIR)/fouinette",
 				);
 				INFOPLIST_FILE = fouinette/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
@@ -528,6 +529,7 @@
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/fouinette/Frameworks",
+					"$(PROJECT_DIR)/fouinette",
 				);
 				INFOPLIST_FILE = fouinette/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/../Frameworks";
